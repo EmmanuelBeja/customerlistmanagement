@@ -1,0 +1,39 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "first_name": "John",
+      "last_name": "Doe",
+      "email": "j.doe@mail.com",
+      "description": "J.Doe description"
+    },
+    {
+      "id": 2,
+      "first_name": "Marco",
+      "last_name": "Polo",
+      "email": "marco.polo@mail.com",
+      "description": "M.Polo Description"
+    },
+    {
+      "id": 3,
+      "first_name": "Marco",
+      "last_name": "Polo",
+      "email": "marco.polo@mail.com",
+      "description": "M.Polo Description"
+    },
+    {
+      "id": 4,
+      "first_name": "Marco",
+      "last_name": "Polo",
+      "email": "marco.polo@mail.com",
+      "description": "M.Polo Description"
+    },
+    {
+      "id": 5,
+      "first_name": "Marco",
+      "last_name": "Polo",
+      "email": "marco.polo@mail.com",
+      "description": "M.Polo Description"
+    }
+  ]
+}
